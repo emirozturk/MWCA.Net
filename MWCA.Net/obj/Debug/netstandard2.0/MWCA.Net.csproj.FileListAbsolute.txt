@@ -1,0 +1,9 @@
+C:\Users\emiro\Desktop\MWCA.Net\MWCA.Net\obj\Debug\netstandard2.0\MWCA.Net.csprojResolveAssemblyReference.cache
+C:\Users\emiro\Desktop\MWCA.Net\MWCA.Net\obj\Debug\netstandard2.0\MWCA.Net.csproj.CoreCompileInputs.cache
+C:\Users\emiro\Desktop\MWCA.Net\MWCA.Net\obj\Debug\netstandard2.0\MWCA.Net.AssemblyInfoInputs.cache
+C:\Users\emiro\Desktop\MWCA.Net\MWCA.Net\obj\Debug\netstandard2.0\MWCA.Net.AssemblyInfo.cs
+C:\Users\emiro\Desktop\MWCA.Net\MWCA.Net\bin\Debug\netstandard2.0\MWCA.Net.deps.json
+C:\Users\emiro\Desktop\MWCA.Net\MWCA.Net\bin\Debug\netstandard2.0\MWCA.Net.dll
+C:\Users\emiro\Desktop\MWCA.Net\MWCA.Net\bin\Debug\netstandard2.0\MWCA.Net.pdb
+C:\Users\emiro\Desktop\MWCA.Net\MWCA.Net\obj\Debug\netstandard2.0\MWCA.Net.dll
+C:\Users\emiro\Desktop\MWCA.Net\MWCA.Net\obj\Debug\netstandard2.0\MWCA.Net.pdb

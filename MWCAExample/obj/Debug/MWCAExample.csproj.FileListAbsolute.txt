@@ -1,0 +1,3 @@
+C:\Users\emiro\Desktop\MWCA.Net\MWCAExample\obj\Debug\MWCAExample.csprojResolveAssemblyReference.cache
+C:\Users\emiro\Desktop\MWCA.Net\MWCAExample\obj\Debug\MWCAExample.exe.config
+C:\Users\emiro\Desktop\MWCA.Net\MWCAExample\obj\Debug\MWCAExample.csproj.CoreCompileInputs.cache
