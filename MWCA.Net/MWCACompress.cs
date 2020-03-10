@@ -46,7 +46,7 @@ namespace MWCAdotNet
             {
                 Start = Pointer;
                 if (Pointer < InputStream.Length && IsChar[InputStream[Pointer]])
-                    while (IsChar[InputStream[Pointer]] && Pointer < InputStream.Length)
+                    while (Pointer < InputStream.Length && IsChar[InputStream[Pointer]])
                         Pointer++;
                 else
                 {

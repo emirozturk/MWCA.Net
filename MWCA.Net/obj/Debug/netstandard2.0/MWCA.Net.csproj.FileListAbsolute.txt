@@ -7,3 +7,11 @@ C:\Users\emiro\Desktop\MWCA.Net\MWCA.Net\bin\Debug\netstandard2.0\MWCA.Net.dll
 C:\Users\emiro\Desktop\MWCA.Net\MWCA.Net\bin\Debug\netstandard2.0\MWCA.Net.pdb
 C:\Users\emiro\Desktop\MWCA.Net\MWCA.Net\obj\Debug\netstandard2.0\MWCA.Net.dll
 C:\Users\emiro\Desktop\MWCA.Net\MWCA.Net\obj\Debug\netstandard2.0\MWCA.Net.pdb
+C:\Users\emiro\Documents\GitHub\MWCA.Net\MWCA.Net\bin\Debug\netstandard2.0\MWCA.Net.deps.json
+C:\Users\emiro\Documents\GitHub\MWCA.Net\MWCA.Net\bin\Debug\netstandard2.0\MWCA.Net.dll
+C:\Users\emiro\Documents\GitHub\MWCA.Net\MWCA.Net\bin\Debug\netstandard2.0\MWCA.Net.pdb
+C:\Users\emiro\Documents\GitHub\MWCA.Net\MWCA.Net\obj\Debug\netstandard2.0\MWCA.Net.csprojAssemblyReference.cache
+C:\Users\emiro\Documents\GitHub\MWCA.Net\MWCA.Net\obj\Debug\netstandard2.0\MWCA.Net.AssemblyInfoInputs.cache
+C:\Users\emiro\Documents\GitHub\MWCA.Net\MWCA.Net\obj\Debug\netstandard2.0\MWCA.Net.AssemblyInfo.cs
+C:\Users\emiro\Documents\GitHub\MWCA.Net\MWCA.Net\obj\Debug\netstandard2.0\MWCA.Net.dll
+C:\Users\emiro\Documents\GitHub\MWCA.Net\MWCA.Net\obj\Debug\netstandard2.0\MWCA.Net.pdb
